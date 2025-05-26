@@ -1,0 +1,1 @@
+This repository provides a practical PySpark solution to cast a column containing dates in multiple string formats into a standard DateType. It leverages Spark SQL functions like to_date, date_format, and when to normalize the data in a clean and functional way — ideal for preprocessing steps in data engineering pipelines.
